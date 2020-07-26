@@ -11,4 +11,10 @@ V1.3 Feature :
 - IP network from bigger prefix to smaller prefix
 - Netmask for bigger prefix & smaller prefix
 
+V1.31 Feature :
+- Still same feature with 1.3, but fixed a bug that occured in V1.3 Version.
+
+Make sure, all contains files in the same folder / directory.
+You just need files " Egi IP Subnet Calculator V1.31.exe " and " Logo Egi.ico " to run the application.
+
 Created by : Egi Fadli Soerachman
