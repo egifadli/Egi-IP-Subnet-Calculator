@@ -1,8 +1,8 @@
 # Egi-IP-Subnet-Calculator
 # Please Read This Instruction, So That Errors Do Not Occur
 This Application is useful for IP Calculation & Subnet Calculation.
-Hope this application can be useful for everyone that need's IP Calculator in their PC, Desktop or Laptops.
-Feel free if you want ask to me & improve this application. Build tutorial will uploaded soon in my Youtube Channel.
+<br>Hope this application can be useful for everyone that need's IP Calculator in their PC, Desktop or Laptops.
+<br>Feel free if you want ask to me & improve this application. Build tutorial will uploaded soon in my Youtube Channel.
 
 V1.3 Feature :
 - Calculation Bigger prefix to smaller prefix
