@@ -14,8 +14,8 @@ V1.3 Feature :
 V1.31 Feature :
 - Still same feature with 1.3, but fixed a bug that occured in V1.3 Version.
 <hr />
-![Image of Bug in V1.3](https://raw.githubusercontent.com/egifadli/Egi-IP-Subnet-Calculator/master/bug%20in%20V1.3%20.PNG)
-If this problems happens to you,
+![](bug%20in%20V1.3%20.PNG)
+If this problems happens to you,<br>
 Make sure, all contains files in the same folder / directory.
 <br><br>
 
