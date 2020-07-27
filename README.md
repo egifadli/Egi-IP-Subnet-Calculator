@@ -26,4 +26,8 @@ You just need files " Egi IP Subnet Calculator V1.31.exe " and " Logo Egi.ico " 
 Make sure this 2 files in the same folder or Directory.
 <br>
 
+A short video about this application : <br>
+
+https://youtu.be/X5eFk-jJm8U
+
 Created by : Egi Fadli Soerachman
