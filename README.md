@@ -36,3 +36,7 @@ Created by : Egi Fadli Soerachman
 Please use <b>Egi Subnet Calculator - LE</b> for Linux Operating System. </br>
 
 ![](https://github.com/egifadli/Egi-IP-Subnet-Calculator/blob/master/Egi%20Subnet%20Calculator%20For%20Linux.png)
+
+If the application can't run, please check <b> allow executing </b> in properties
+
+![](https://github.com/egifadli/Egi-IP-Subnet-Calculator/blob/master/Please%20check%20this%20for%20linux.png)
