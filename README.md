@@ -31,3 +31,8 @@ A short video about this application : <br>
 https://youtu.be/X5eFk-jJm8U
 
 Created by : Egi Fadli Soerachman
+
+# For Linux Environment
+Please use <b>Egi Subnet Calculator - LE</b> for Linux Operating System. </br>
+
+![](https://github.com/egifadli/Egi-IP-Subnet-Calculator/blob/master/Egi%20Subnet%20Calculator%20For%20Linux.png)
